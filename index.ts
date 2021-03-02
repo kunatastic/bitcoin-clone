@@ -116,8 +116,8 @@ class Wallet {
   }
 }
 
-// Example usage
 
+// Example usage
 const satoshi = new Wallet();
 const bob = new Wallet();
 const alice = new Wallet();
